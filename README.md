@@ -1,5 +1,5 @@
 # temporarytablemssql
-> Microsoft SQL Server project which utilizes a stored procedure in conjunction with temporary table(s)
+> Microsoft SQL Server project which utilizes a stored procedure in conjunction with a temporary table
 
 ## Table of Contents
 * [Version](#version)
